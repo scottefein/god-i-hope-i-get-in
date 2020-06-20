@@ -42,24 +42,16 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Who Is This For?
-    content: ''
-  col_2:
-    content: ''
-    headline: Juniors and Seniors in HS who want to be Musical Theatre majors in college
 - template: detail-content
   block: text-1
-  headline: Are You Ready?
+  headline: Frequently Asked Questions
   content: <h2 class="font_2">Who's it for?</h2><p class="font_7">Juniors and Seniors
     in HS who want to be Musical Theatre majors in college</p><h2>What is it?</h2><p
     class="font_7">A fully online training program that walks you through every step
-    of the musical theatre audition process.</p><h2>Why God I Hope I Get In?</h2><p
+    of getting into musical theatre school.</p><h2>Why God I Hope I Get In?</h2><p
     class="font_7">It's affordable, customizable, and personal. Learn from our comprehensive
-    modules, or opt in to our private coachings with teachers currently working in
-    the biz.</p>
+    modules, or opt in to private coaching with teachers currently working in the
+    biz.</p>
 - template: simple-footer
   block: footer-1
   content: Made with Love by Kailey Marshall
