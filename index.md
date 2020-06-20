@@ -48,11 +48,7 @@ page_sections:
     headline: Who Is This For?
     content: ''
   col_2:
-    content: Who's it for?<br><br><br>What is it?<br><br>A fully online training program
-      that walks you through every step of the musical theatre audition process.<br><br>Why
-      God I Hope I Get In?<br><br>It's affordable, customizable, and personal. Learn
-      from our comprehensive modules, or opt in to our private coachings with teachers
-      currently working in the biz.
+    content: ''
     headline: Juniors and Seniors in HS who want to be Musical Theatre majors in college
 - template: detail-content
   block: text-1
