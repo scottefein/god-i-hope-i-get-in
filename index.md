@@ -27,7 +27,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Sign Up Now
   image:
     image: "/uploads/2020/06/20/piano-on-stage.webp"
     alt_text: Piano with Bench
