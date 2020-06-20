@@ -32,16 +32,6 @@ page_sections:
     image: "/uploads/2020/06/20/piano-on-stage.webp"
     alt_text: Piano with Bench
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: detail-content
-  block: text-1
-  headline: Are You Ready?
-  content: <h2 class="font_2">Who's it for?</h2><p class="font_7">Juniors and Seniors
-    in HS who want to be Musical Theatre majors in college</p><h2>What is it?</h2><p
-    class="font_7">A fully online training program that walks you through every step
-    of the musical theatre audition process.</p><h2>Why God I Hope I Get In?</h2><p
-    class="font_7">It's affordable, customizable, and personal. Learn from our comprehensive
-    modules, or opt in to our private coachings with teachers currently working in
-    the biz.</p>
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -52,29 +42,32 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Is This For You?
+    content: ''
+  col_2:
+    content: Who's it for?<br>Juniors and Seniors in HS who want to be Musical Theatre
+      majors in college<br><br>What is it?<br><br>A fully online training program
+      that walks you through every step of the musical theatre audition process.<br><br>Why
+      God I Hope I Get In?<br><br>It's affordable, customizable, and personal. Learn
+      from our comprehensive modules, or opt in to our private coachings with teachers
+      currently working in the biz.
+    headline: ''
+- template: detail-content
+  block: text-1
+  headline: Are You Ready?
+  content: <h2 class="font_2">Who's it for?</h2><p class="font_7">Juniors and Seniors
+    in HS who want to be Musical Theatre majors in college</p><h2>What is it?</h2><p
+    class="font_7">A fully online training program that walks you through every step
+    of the musical theatre audition process.</p><h2>Why God I Hope I Get In?</h2><p
+    class="font_7">It's affordable, customizable, and personal. Learn from our comprehensive
+    modules, or opt in to our private coachings with teachers currently working in
+    the biz.</p>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Made with Love by Kailey Marshall
 
 ---
 foo bar
