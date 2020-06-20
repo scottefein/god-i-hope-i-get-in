@@ -22,8 +22,8 @@ page_sections:
   block: hero-2
   headline: "<strong>God I Hope I Get In<br></strong>Get Into the Theatre Program
     You've Been Dreaming Of"
-  content: Sign up to be the first on the list to access course content, private coaching,
-    and special offers.
+  content: 'Launching in Summer 2020, we''re leveling the playing field to help you
+    get into the musical theatre program that''s best for you. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
