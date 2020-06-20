@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  logo: ''
+  logo: "/uploads/2020/06/20/kailey-logo-01.webp"
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>God I Hope I Get In<br></strong>Get Into the Theatre Program
